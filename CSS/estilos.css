@@ -1,0 +1,58 @@
+.contenedor {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    color: #444;
+  }
+  #principal {
+    width: 40%;
+    margin: 5%;
+
+  }
+  #sidebar {
+    width: 50%;
+
+  }
+h1{
+  color:white;
+}
+h2{
+  color:whitesmoke;
+  font-family: 'Courier New', Courier, monospace;
+}
+.tgs{
+  color: rgb(154, 222, 240);
+}
+.elementos{
+color: white;
+text-shadow: 0 0 15px rgb(0, 0, 0);
+}
+#bg1{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/429/477/non_2x/electronic-circuit-design-on-a-dark-blue-background-vector.jpg");
+  }
+#bg2{
+    background-image: url("https://www.udocz.com/butler/pdf/155924/155924-0b8b9cff6c499b8aa5823db8a6730ff5/bgb.jpg?token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo0OCwiZXhwIjoxNzAxNTU5Mzg1fQ.YzT2UnhDoC4eLEzPraiN4lnZnlWotzNNtJ3ShmlVN8A?token=eyJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo0OCwiZXhwIjoxNzAxNTU5Mzg1fQ.YzT2UnhDoC4eLEzPraiN4lnZnlWotzNNtJ3ShmlVN8A");
+    background-size: cover;
+  }
+#bg3{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20240103/pngtree-circuit-board-electronic-elements-vector-background-an-illustration-of-a-computer-image_13878383.png");
+    background-size: cover;
+  }
+#lista{
+  margin: 5%;
+  font-size: larger;
+  text-shadow: 0 0 15px rgb(0, 0, 0);
+}
+#principal2 {
+  width: 40%;
+ margin-left: 5%;
+
+}
+.imgejem{
+margin-top: 5%;
+margin-left: 5%;
+}
+.ejemplo{
+  color: rgb(255, 255, 255);
+background-color:rgba(0, 0, 0, 0.603);
+}
